@@ -1,0 +1,20 @@
+[project]
+name = "agent-access-control"
+version = "0.1.0"
+description = "Access governance, human-in-the-loop action gating, and audit logging for an agentic AI system"
+requires-python = ">=3.9"
+dependencies = []
+
+[project.optional-dependencies]
+test = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["agent_access"]
