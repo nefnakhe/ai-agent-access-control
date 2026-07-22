@@ -47,7 +47,7 @@ One JSON object per line, size-bounded with rotation. The shared trail the actio
 
 Most AI-governance discussion names frameworks; this is the other half — the controls those frameworks describe, built to the standard I assess vendors against. It maps cleanly onto **NIST AI RMF (Manage)**, least-privilege access control, and supervised-autonomy requirements for agentic systems.
 
-Full write-up and related work: [github.com/Frimpong-Ampadu](https://github.com/Frimpong-Ampadu)
+Full write-up and related work: [github.com/nefnakhe](https://github.com/nefnakhe)
 
 ## Layout
 
